@@ -61,9 +61,8 @@ hotelManagementProject/
 ├── CMakeLists.txt            → Build configuration
 ├── screenshots/              → Screenshots for GitHub display
 └── README.md                 → This file
-'''
 
-## 🧱 How to Build and Run on Any Computer
+### 🧱 How to Build and Run on Any Computer
 
 ### 🔧 Prerequisites
 
