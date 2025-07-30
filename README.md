@@ -61,3 +61,25 @@ hotelManagementProject/
 ├── CMakeLists.txt            → Build configuration
 ├── screenshots/              → Screenshots for GitHub display
 └── README.md                 → This file
+
+## 🧱 How to Build and Run on Any Computer
+
+### 🔧 Prerequisites
+
+Make sure the target system has:
+
+- C++20 compatible compiler (e.g., g++, clang++)
+- CMake (v3.20 or higher)
+- Make or Ninja
+- Terminal or IDE (CLion, VS Code, etc.)
+
+
+### 📦 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/hotelManagementProject.git
+cd hotelManagementProject
+mkdir build
+cd build
+cmake ..
+make
