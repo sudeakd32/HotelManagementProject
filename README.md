@@ -50,6 +50,7 @@ After entering as Admin or Guest, the following menu appears:
 
 ## 📁 Project Structure
 
+```plaintext
 hotelManagementProject/
 │
 ├── main.cpp                  → Main menu logic and application loop
@@ -60,8 +61,7 @@ hotelManagementProject/
 ├── CMakeLists.txt            → Build configuration
 ├── screenshots/              → Screenshots for GitHub display
 └── README.md                 → This file
-
----
+'''
 
 ## 🧱 How to Build and Run on Any Computer
 
