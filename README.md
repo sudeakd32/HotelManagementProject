@@ -84,7 +84,7 @@ mkdir build
 cd build
 cmake ..
 make
-
+```
 ## 📸 Screenshots
 
 ![Alt text](Görüntü 30.07.2025 16.55.jpg)
