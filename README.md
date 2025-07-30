@@ -88,6 +88,8 @@ make
 ## 📸 Screenshots
 
 ![Alt text](https://github.com/sudeakd32/HotelManagementProject/blob/main/screenshots/Go%CC%88ru%CC%88ntu%CC%88%2030.07.2025%2016.55.jpg)
+
 ![Alt text](https://github.com/sudeakd32/HotelManagementProject/blob/main/screenshots/Go%CC%88ru%CC%88ntu%CC%88%2030.07.2025%2017.02.jpg)
-![Alt text](Görüntü 30.07.2025 17.03.jpg)
+
+![Alt text](https://github.com/sudeakd32/HotelManagementProject/blob/main/screenshots/Go%CC%88ru%CC%88ntu%CC%88%2030.07.2025%2017.03.jpg)
 ![Alt text](Görüntü 30.07.2025 17.06.jpg)
