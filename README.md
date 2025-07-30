@@ -50,7 +50,6 @@ After entering as Admin or Guest, the following menu appears:
 
 ## 📁 Project Structure
 
-```plaintext
 hotelManagementProject/
 │
 ├── main.cpp                  → Main menu logic and application loop
