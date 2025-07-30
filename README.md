@@ -87,7 +87,7 @@ make
 ```
 ## 📸 Screenshots
 
-![Alt text](Görüntü 30.07.2025 16.55.jpg)
+![Alt text](screenshots/Görüntü 30.07.2025 16.55.jpg)
 ![Alt text](Görüntü 30.07.2025 17.02.jpg)
 ![Alt text](Görüntü 30.07.2025 17.03.jpg)
 ![Alt text](Görüntü 30.07.2025 17.06.jpg)
